@@ -1,0 +1,10 @@
+name: TerraPaint
+version: 1.0
+main: terrainpaint.Main
+author: Tillthen
+
+commands:
+  terrapaint:
+    description: Paint the terrain around you.
+  terrasettings:
+    description: Settings of TerraPaint

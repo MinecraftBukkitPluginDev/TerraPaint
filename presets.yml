@@ -1,0 +1,11 @@
+presets:
+  - 'customExample'
+
+customExample:
+  block:
+    - 'GRASS'
+    - 'LEAVES'
+
+  replacement:
+    - 'DIRT'
+    - 'AIR'
